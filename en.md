@@ -66,3 +66,8 @@
 
 * Turn your attention to things other than making money, saving time, and getting value for money or for time.
 * Aim for "goodness," not "time-saving."
+
+## Struggle
+
+* Be aware of the painful parts of making, the parts where you feel things aren't going well.
+* Be conscious of getting past them.
