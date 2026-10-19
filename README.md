@@ -1,8 +1,5 @@
-# n Points on Reclaiming Humanity from AI
-# AIから人間性を取り戻す n箇条
-
-* [Japanese](./ja.md)
-* [English](./en.md)
-* [Korean](./ko.md)
-* [Chinese _ Simpified](./zh-CN.md)
-* [Chinese _ Traditional](./zh-TW.md)
+# [AIから人間性を取り戻す n箇条](./ja.md)
+# [n Principles for Reclaiming Humanity from AI](./en.md)
+# [AI로부터 인간성을 되찾는 n개조](./ko.md)
+# [从AI手中夺回人性的n条守则](./zh-CN.md)
+# [從AI手中奪回人性的n條守則](./zh-TW.md)
