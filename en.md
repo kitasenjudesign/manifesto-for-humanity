@@ -44,28 +44,24 @@
 * Use the time freed up to rest or to work on something else.
 * Work on the parts whose quality you could never raise before.
 
-## Use it like crazy
-
-* Accept AI, and for now, just use it like crazy.
-* Then write down how it felt.
-* Record and observe this period of change brought about by AI.
-
-## Cultivate an aesthetic eye
-
-* Try choosing from the huge volume of things AI has made. See choosing as part of making.
-* An aesthetic eye is a hierarchy. Look at lots of things and rank them in your own way.
-* Agonize while you make. Agonize, then reach a conclusion.
-
 ## Dig into AI as a medium
 
 * Think about what can only be done with AI.
 * Push hallucinations and AI-ness even further to create an excessive AI style.
+* Accept AI, and for now, just use it like crazy.
+* Then write down how it felt. Record and observe this period of change brought about by AI.
 * Think about the aesthetics of generative AI.
 
-## Look at inefficiency
+## Cultivate an aesthetic eye
+
+* Try choosing from the huge volume of things AI has made. See choosing as part of making.
+* Think about what's missing from what AI has made.
+* An aesthetic eye is a hierarchy. Look at lots of things and rank them in your own way.
+
+## Aim for goodness, not time-saving
 
 * Turn your attention to things other than making money, saving time, and getting value for money or for time.
-* Aim for "goodness," not "time-saving."
+* Ask yourself, "How can I make something better?" and "How can I make something no one has seen before?"
 
 ## Struggle
 
