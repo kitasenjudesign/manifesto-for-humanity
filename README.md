@@ -1,3 +1,5 @@
+https://kitasenjudesign.com/manifesto/
+
 * [AIから人間性を取り戻す n箇条](./ja.md)
 * [n Principles for Reclaiming Humanity from AI](./en.md)
 * [AI로부터 인간성을 되찾는 n개조](./ko.md)
